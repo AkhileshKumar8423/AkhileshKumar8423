@@ -36,3 +36,5 @@ Power BI project focused on employee attrition, workforce analysis and HR perfor
 ## 📫 Connect With Me
 
 GitHub: [AkhileshKumar8423](https://github.com/AkhileshKumar8423)
+
+Linkedin: [akhilesh-kumar-643610358](https://linkedin.com/in/akhilesh-kumar-643610358)
