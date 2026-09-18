@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Akhilesh Kumar
 
-<!--
-**AkhileshKumar8423/AkhileshKumar8423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Power BI | SQL | Excel | DAX
 
-Here are some ideas to get you started:
+I am building my career in Data Analytics and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Power BI
+- DAX
+- SQL
+- Microsoft Excel
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
+
+## 📊 Featured Projects
+
+### Superstore Sales & Profit Analytics
+Interactive Power BI dashboard for analyzing sales, profit, orders, customers, products, categories and regional performance.
+
+🔗 [View Project](https://github.com/AkhileshKumar8423/superstore-sales-profit-analytics)
+
+### IBM HR Analytics — Employee Attrition & Performance
+Power BI project focused on employee attrition, workforce analysis and HR performance insights.
+
+## 🎯 Currently Learning
+
+- Advanced Power BI
+- Advanced DAX
+- SQL
+- Data Analytics
+- Digital Marketing
+
+## 📫 Connect With Me
+
+GitHub: [AkhileshKumar8423](https://github.com/AkhileshKumar8423)
