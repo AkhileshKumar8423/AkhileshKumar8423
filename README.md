@@ -20,10 +20,9 @@ I am building my career in Data Analytics and Business Intelligence.
 ### Superstore Sales & Profit Analytics
 Interactive Power BI dashboard for analyzing sales, profit, orders, customers, products, categories and regional performance.
 
-🔗 [View Project](https://github.com/AkhileshKumar8423/superstore-sales-profit-analytics)
-
 ### IBM HR Analytics — Employee Attrition & Performance
 Power BI project focused on employee attrition, workforce analysis and HR performance insights.
+
 
 ## 🎯 Currently Learning
 
