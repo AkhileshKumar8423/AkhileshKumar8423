@@ -27,9 +27,13 @@ Power BI project focused on employee attrition, workforce analysis and HR perfor
 ## 🎯 Currently Learning
 
 - Advanced Power BI
+- Advanced Excel
 - Advanced DAX
 - SQL
 - Data Analytics
+- Business Analytics
+- MIS Executive
+- Operations Executive
 - Digital Marketing
 
 ## 📫 Connect With Me
